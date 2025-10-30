@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\tastas\\source\\repos\\AcmeAccounting\\",
+  "WorkspaceRootPath": "C:\\Users\\tastas\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\AcmeAccounting\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{49763EAF-C66A-4420-AEF0-651D072A9AE1}|AcmeAccounting\\AcmeAccounting.csproj|c:\\users\\tastas\\source\\repos\\acmeaccounting\\acmeaccounting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{49763EAF-C66A-4420-AEF0-651D072A9AE1}|AcmeAccounting\\AcmeAccounting.csproj|c:\\users\\tastas\\documents\\github\\the-tech-academy-basic-c-sharp-projects\\acmeaccounting\\acmeaccounting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{49763EAF-C66A-4420-AEF0-651D072A9AE1}|AcmeAccounting\\AcmeAccounting.csproj|solutionrelative:acmeaccounting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,14 +28,22 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\tastas\\source\\repos\\AcmeAccounting\\AcmeAccounting\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\tastas\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\AcmeAccounting\\AcmeAccounting\\Program.cs",
               "RelativeDocumentMoniker": "AcmeAccounting\\Program.cs",
-              "ToolTip": "C:\\Users\\tastas\\source\\repos\\AcmeAccounting\\AcmeAccounting\\Program.cs",
+              "ToolTip": "C:\\Users\\tastas\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\AcmeAccounting\\AcmeAccounting\\Program.cs",
               "RelativeToolTip": "AcmeAccounting\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-30T01:06:33.962Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
             }
           ]
         }
