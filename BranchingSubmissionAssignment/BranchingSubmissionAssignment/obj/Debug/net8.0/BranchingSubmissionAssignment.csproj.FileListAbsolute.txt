@@ -1,0 +1,14 @@
+C:\Users\tastas\source\repos\BranchingSubmissionAssignment\BranchingSubmissionAssignment\bin\Debug\net8.0\BranchingSubmissionAssignment.exe
+C:\Users\tastas\source\repos\BranchingSubmissionAssignment\BranchingSubmissionAssignment\bin\Debug\net8.0\BranchingSubmissionAssignment.deps.json
+C:\Users\tastas\source\repos\BranchingSubmissionAssignment\BranchingSubmissionAssignment\bin\Debug\net8.0\BranchingSubmissionAssignment.runtimeconfig.json
+C:\Users\tastas\source\repos\BranchingSubmissionAssignment\BranchingSubmissionAssignment\bin\Debug\net8.0\BranchingSubmissionAssignment.dll
+C:\Users\tastas\source\repos\BranchingSubmissionAssignment\BranchingSubmissionAssignment\bin\Debug\net8.0\BranchingSubmissionAssignment.pdb
+C:\Users\tastas\source\repos\BranchingSubmissionAssignment\BranchingSubmissionAssignment\obj\Debug\net8.0\BranchingSubmissionAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tastas\source\repos\BranchingSubmissionAssignment\BranchingSubmissionAssignment\obj\Debug\net8.0\BranchingSubmissionAssignment.AssemblyInfoInputs.cache
+C:\Users\tastas\source\repos\BranchingSubmissionAssignment\BranchingSubmissionAssignment\obj\Debug\net8.0\BranchingSubmissionAssignment.AssemblyInfo.cs
+C:\Users\tastas\source\repos\BranchingSubmissionAssignment\BranchingSubmissionAssignment\obj\Debug\net8.0\BranchingSubmissionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\tastas\source\repos\BranchingSubmissionAssignment\BranchingSubmissionAssignment\obj\Debug\net8.0\BranchingSubmissionAssignment.dll
+C:\Users\tastas\source\repos\BranchingSubmissionAssignment\BranchingSubmissionAssignment\obj\Debug\net8.0\refint\BranchingSubmissionAssignment.dll
+C:\Users\tastas\source\repos\BranchingSubmissionAssignment\BranchingSubmissionAssignment\obj\Debug\net8.0\BranchingSubmissionAssignment.pdb
+C:\Users\tastas\source\repos\BranchingSubmissionAssignment\BranchingSubmissionAssignment\obj\Debug\net8.0\BranchingSubmissionAssignment.genruntimeconfig.cache
+C:\Users\tastas\source\repos\BranchingSubmissionAssignment\BranchingSubmissionAssignment\obj\Debug\net8.0\ref\BranchingSubmissionAssignment.dll

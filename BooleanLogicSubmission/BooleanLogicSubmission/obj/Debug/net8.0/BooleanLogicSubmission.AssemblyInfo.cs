@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BooleanLogicSubmission")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff70d0492a989cf724c5ec12b01956ecca3b38be")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0cb6a50c2189a238d04bb90160ebc26d71bac2eb")]
 [assembly: System.Reflection.AssemblyProductAttribute("BooleanLogicSubmission")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BooleanLogicSubmission")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
