@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\tastas\\source\\repos\\MathAndComparisonOperatorAssignment\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{761BB241-5C84-4498-832F-A31C7982FD0C}|MathAndComparisonOperatorAssignment\\MathAndComparisonOperatorAssignment.csproj|c:\\users\\tastas\\source\\repos\\mathandcomparisonoperatorassignment\\mathandcomparisonoperatorassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{761BB241-5C84-4498-832F-A31C7982FD0C}|MathAndComparisonOperatorAssignment\\MathAndComparisonOperatorAssignment.csproj|solutionrelative:mathandcomparisonoperatorassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A96989C0-7E7E-426F-9217-BD48EEC4EB76}|MathAndComparisonOperatorAssignment\\MathAndComparisonOperatorAssignment.csproj|c:\\users\\tastas\\source\\repos\\mathandcomparisonoperatorassignment\\mathandcomparisonoperatorassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A96989C0-7E7E-426F-9217-BD48EEC4EB76}|MathAndComparisonOperatorAssignment\\MathAndComparisonOperatorAssignment.csproj|solutionrelative:mathandcomparisonoperatorassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,9 +28,9 @@
               "RelativeDocumentMoniker": "MathAndComparisonOperatorAssignment\\Program.cs",
               "ToolTip": "C:\\Users\\tastas\\source\\repos\\MathAndComparisonOperatorAssignment\\MathAndComparisonOperatorAssignment\\Program.cs",
               "RelativeToolTip": "MathAndComparisonOperatorAssignment\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB0AAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-01T17:39:47.266Z",
+              "WhenOpened": "2025-11-02T21:53:14.762Z",
               "EditorCaption": ""
             }
           ]
