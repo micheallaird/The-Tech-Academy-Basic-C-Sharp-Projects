@@ -1,0 +1,14 @@
+C:\Users\tastas\source\repos\Daily_Report\Daily_Report\bin\Debug\net8.0\Daily_Report.exe
+C:\Users\tastas\source\repos\Daily_Report\Daily_Report\bin\Debug\net8.0\Daily_Report.deps.json
+C:\Users\tastas\source\repos\Daily_Report\Daily_Report\bin\Debug\net8.0\Daily_Report.runtimeconfig.json
+C:\Users\tastas\source\repos\Daily_Report\Daily_Report\bin\Debug\net8.0\Daily_Report.dll
+C:\Users\tastas\source\repos\Daily_Report\Daily_Report\bin\Debug\net8.0\Daily_Report.pdb
+C:\Users\tastas\source\repos\Daily_Report\Daily_Report\obj\Debug\net8.0\Daily_Report.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tastas\source\repos\Daily_Report\Daily_Report\obj\Debug\net8.0\Daily_Report.AssemblyInfoInputs.cache
+C:\Users\tastas\source\repos\Daily_Report\Daily_Report\obj\Debug\net8.0\Daily_Report.AssemblyInfo.cs
+C:\Users\tastas\source\repos\Daily_Report\Daily_Report\obj\Debug\net8.0\Daily_Report.csproj.CoreCompileInputs.cache
+C:\Users\tastas\source\repos\Daily_Report\Daily_Report\obj\Debug\net8.0\Daily_Report.dll
+C:\Users\tastas\source\repos\Daily_Report\Daily_Report\obj\Debug\net8.0\refint\Daily_Report.dll
+C:\Users\tastas\source\repos\Daily_Report\Daily_Report\obj\Debug\net8.0\Daily_Report.pdb
+C:\Users\tastas\source\repos\Daily_Report\Daily_Report\obj\Debug\net8.0\Daily_Report.genruntimeconfig.cache
+C:\Users\tastas\source\repos\Daily_Report\Daily_Report\obj\Debug\net8.0\ref\Daily_Report.dll

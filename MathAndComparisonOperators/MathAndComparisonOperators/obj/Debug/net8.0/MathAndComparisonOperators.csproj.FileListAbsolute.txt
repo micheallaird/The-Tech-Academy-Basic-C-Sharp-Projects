@@ -1,0 +1,14 @@
+C:\Users\tastas\source\repos\MathAndComparisonOperators\MathAndComparisonOperators\bin\Debug\net8.0\MathAndComparisonOperators.exe
+C:\Users\tastas\source\repos\MathAndComparisonOperators\MathAndComparisonOperators\bin\Debug\net8.0\MathAndComparisonOperators.deps.json
+C:\Users\tastas\source\repos\MathAndComparisonOperators\MathAndComparisonOperators\bin\Debug\net8.0\MathAndComparisonOperators.runtimeconfig.json
+C:\Users\tastas\source\repos\MathAndComparisonOperators\MathAndComparisonOperators\bin\Debug\net8.0\MathAndComparisonOperators.dll
+C:\Users\tastas\source\repos\MathAndComparisonOperators\MathAndComparisonOperators\bin\Debug\net8.0\MathAndComparisonOperators.pdb
+C:\Users\tastas\source\repos\MathAndComparisonOperators\MathAndComparisonOperators\obj\Debug\net8.0\MathAndComparisonOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tastas\source\repos\MathAndComparisonOperators\MathAndComparisonOperators\obj\Debug\net8.0\MathAndComparisonOperators.AssemblyInfoInputs.cache
+C:\Users\tastas\source\repos\MathAndComparisonOperators\MathAndComparisonOperators\obj\Debug\net8.0\MathAndComparisonOperators.AssemblyInfo.cs
+C:\Users\tastas\source\repos\MathAndComparisonOperators\MathAndComparisonOperators\obj\Debug\net8.0\MathAndComparisonOperators.csproj.CoreCompileInputs.cache
+C:\Users\tastas\source\repos\MathAndComparisonOperators\MathAndComparisonOperators\obj\Debug\net8.0\MathAndComparisonOperators.dll
+C:\Users\tastas\source\repos\MathAndComparisonOperators\MathAndComparisonOperators\obj\Debug\net8.0\refint\MathAndComparisonOperators.dll
+C:\Users\tastas\source\repos\MathAndComparisonOperators\MathAndComparisonOperators\obj\Debug\net8.0\MathAndComparisonOperators.pdb
+C:\Users\tastas\source\repos\MathAndComparisonOperators\MathAndComparisonOperators\obj\Debug\net8.0\MathAndComparisonOperators.genruntimeconfig.cache
+C:\Users\tastas\source\repos\MathAndComparisonOperators\MathAndComparisonOperators\obj\Debug\net8.0\ref\MathAndComparisonOperators.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MathAndComparisonOperatorAssignment/1.0.0": {
+        "runtime": {
+          "MathAndComparisonOperatorAssignment.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MathAndComparisonOperatorAssignment/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
