@@ -1,0 +1,14 @@
+C:\Users\tastas\source\repos\BooleanLogicSubmission\BooleanLogicSubmission\bin\Debug\net8.0\BooleanLogicSubmission.exe
+C:\Users\tastas\source\repos\BooleanLogicSubmission\BooleanLogicSubmission\bin\Debug\net8.0\BooleanLogicSubmission.deps.json
+C:\Users\tastas\source\repos\BooleanLogicSubmission\BooleanLogicSubmission\bin\Debug\net8.0\BooleanLogicSubmission.runtimeconfig.json
+C:\Users\tastas\source\repos\BooleanLogicSubmission\BooleanLogicSubmission\bin\Debug\net8.0\BooleanLogicSubmission.dll
+C:\Users\tastas\source\repos\BooleanLogicSubmission\BooleanLogicSubmission\bin\Debug\net8.0\BooleanLogicSubmission.pdb
+C:\Users\tastas\source\repos\BooleanLogicSubmission\BooleanLogicSubmission\obj\Debug\net8.0\BooleanLogicSubmission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tastas\source\repos\BooleanLogicSubmission\BooleanLogicSubmission\obj\Debug\net8.0\BooleanLogicSubmission.AssemblyInfoInputs.cache
+C:\Users\tastas\source\repos\BooleanLogicSubmission\BooleanLogicSubmission\obj\Debug\net8.0\BooleanLogicSubmission.AssemblyInfo.cs
+C:\Users\tastas\source\repos\BooleanLogicSubmission\BooleanLogicSubmission\obj\Debug\net8.0\BooleanLogicSubmission.csproj.CoreCompileInputs.cache
+C:\Users\tastas\source\repos\BooleanLogicSubmission\BooleanLogicSubmission\obj\Debug\net8.0\BooleanLogicSubmission.dll
+C:\Users\tastas\source\repos\BooleanLogicSubmission\BooleanLogicSubmission\obj\Debug\net8.0\refint\BooleanLogicSubmission.dll
+C:\Users\tastas\source\repos\BooleanLogicSubmission\BooleanLogicSubmission\obj\Debug\net8.0\BooleanLogicSubmission.pdb
+C:\Users\tastas\source\repos\BooleanLogicSubmission\BooleanLogicSubmission\obj\Debug\net8.0\BooleanLogicSubmission.genruntimeconfig.cache
+C:\Users\tastas\source\repos\BooleanLogicSubmission\BooleanLogicSubmission\obj\Debug\net8.0\ref\BooleanLogicSubmission.dll
