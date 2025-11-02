@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tastas\\source\\repos\\BooleanLogicSubmission\\BooleanLogicSubmission\\BooleanLogicSubmission.csproj": {}
+    "C:\\Users\\tastas\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\BooleanLogicSubmission\\BooleanLogicSubmission\\BooleanLogicSubmission.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tastas\\source\\repos\\BooleanLogicSubmission\\BooleanLogicSubmission\\BooleanLogicSubmission.csproj": {
+    "C:\\Users\\tastas\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\BooleanLogicSubmission\\BooleanLogicSubmission\\BooleanLogicSubmission.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tastas\\source\\repos\\BooleanLogicSubmission\\BooleanLogicSubmission\\BooleanLogicSubmission.csproj",
+        "projectUniqueName": "C:\\Users\\tastas\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\BooleanLogicSubmission\\BooleanLogicSubmission\\BooleanLogicSubmission.csproj",
         "projectName": "BooleanLogicSubmission",
-        "projectPath": "C:\\Users\\tastas\\source\\repos\\BooleanLogicSubmission\\BooleanLogicSubmission\\BooleanLogicSubmission.csproj",
+        "projectPath": "C:\\Users\\tastas\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\BooleanLogicSubmission\\BooleanLogicSubmission\\BooleanLogicSubmission.csproj",
         "packagesPath": "C:\\Users\\tastas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tastas\\source\\repos\\BooleanLogicSubmission\\BooleanLogicSubmission\\obj\\",
+        "outputPath": "C:\\Users\\tastas\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\BooleanLogicSubmission\\BooleanLogicSubmission\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
