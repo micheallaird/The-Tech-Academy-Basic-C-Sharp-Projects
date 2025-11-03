@@ -1,0 +1,14 @@
+C:\Users\tastas\source\repos\StringAssignment\StringAssignment\bin\Debug\net8.0\StringAssignment.exe
+C:\Users\tastas\source\repos\StringAssignment\StringAssignment\bin\Debug\net8.0\StringAssignment.deps.json
+C:\Users\tastas\source\repos\StringAssignment\StringAssignment\bin\Debug\net8.0\StringAssignment.runtimeconfig.json
+C:\Users\tastas\source\repos\StringAssignment\StringAssignment\bin\Debug\net8.0\StringAssignment.dll
+C:\Users\tastas\source\repos\StringAssignment\StringAssignment\bin\Debug\net8.0\StringAssignment.pdb
+C:\Users\tastas\source\repos\StringAssignment\StringAssignment\obj\Debug\net8.0\StringAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tastas\source\repos\StringAssignment\StringAssignment\obj\Debug\net8.0\StringAssignment.AssemblyInfoInputs.cache
+C:\Users\tastas\source\repos\StringAssignment\StringAssignment\obj\Debug\net8.0\StringAssignment.AssemblyInfo.cs
+C:\Users\tastas\source\repos\StringAssignment\StringAssignment\obj\Debug\net8.0\StringAssignment.csproj.CoreCompileInputs.cache
+C:\Users\tastas\source\repos\StringAssignment\StringAssignment\obj\Debug\net8.0\StringAssignment.dll
+C:\Users\tastas\source\repos\StringAssignment\StringAssignment\obj\Debug\net8.0\refint\StringAssignment.dll
+C:\Users\tastas\source\repos\StringAssignment\StringAssignment\obj\Debug\net8.0\StringAssignment.pdb
+C:\Users\tastas\source\repos\StringAssignment\StringAssignment\obj\Debug\net8.0\StringAssignment.genruntimeconfig.cache
+C:\Users\tastas\source\repos\StringAssignment\StringAssignment\obj\Debug\net8.0\ref\StringAssignment.dll
