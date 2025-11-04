@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ConsoleAppArraySubmissionAssignment/1.0.0": {
+        "runtime": {
+          "ConsoleAppArraySubmissionAssignment.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleAppArraySubmissionAssignment/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
