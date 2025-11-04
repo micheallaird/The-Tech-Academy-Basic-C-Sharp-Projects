@@ -2,6 +2,61 @@
 
 // Loops in C#
 
+// Example of a boolean comparison using a while loop and switch statement
+Console.WriteLine("Guess the Correct Corvette. It will be one of the following answers: C1, C2, C3, C4, C5, C6, C7, C8. Good luck!");
+// Read user input
+string corvette = Console.ReadLine();
+// Initialize a boolean variable to track if the guess is correct
+bool isCorrect = corvette == "C6";
+while (!isCorrect)
+{
+    switch (corvette)
+    {
+        case "C1":
+            Console.WriteLine("You guessed C1. Try again.");
+            corvette = Console.ReadLine();
+            break;
+        case "C2":
+            Console.WriteLine("You guessed C2. Try again.");
+            corvette = Console.ReadLine();
+            break;
+        case "C3":
+            Console.WriteLine("You guessed C3. Try again.");
+            corvette = Console.ReadLine();
+            break;
+        case "C4":
+            Console.WriteLine("You guessed C4. Try again.");
+            corvette = Console.ReadLine();
+            break;
+        case "C5":
+            Console.WriteLine("You guessed C5. Try again.");
+            corvette = Console.ReadLine();
+            break;
+        // Correct guess
+        case "C6":
+            Console.WriteLine("You guessed C6. That is correct!");
+            isCorrect = true;
+            break;
+        case "C7":
+            Console.WriteLine("You guessed C7. Try again.");
+            corvette = Console.ReadLine();
+            break;
+        case "C8":
+            Console.WriteLine("You guessed C8. Try again.");
+            corvette = Console.ReadLine();
+            break;
+        default:
+            Console.WriteLine("That is not a valid Corvette model. Try again.");
+            corvette = Console.ReadLine();
+            break;
+    }
+}
+
+// Break line for separation
+Console.WriteLine("Press the Enter Key to go to next game.");
+Console.ReadLine();
+
+
 // This example demonstrates the use of a do-while loop and switch statement
 
 // Asks user to guess a number until they guess the correct one (12)
@@ -50,4 +105,5 @@ do
 // Continue the loop until the correct number is guessed
 while (!isGuessed);
 
-Console.Read();
+// Keep the console window open
+Console.ReadLine();
