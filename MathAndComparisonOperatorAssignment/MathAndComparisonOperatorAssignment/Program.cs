@@ -29,3 +29,6 @@ Console.WriteLine("Annual Salary of Person 1: " + person1AnnualSalary);
 Console.WriteLine("Annual Salary of Person 2: " + person2AnnualSalary);
 // Compares the annual salaries of Person 1 and Person 2
 Console.WriteLine("Does Person 1 make more than Person 2: " + (person1AnnualSalary > person2AnnualSalary));
+
+// Ends the program
+Console.ReadLine();
