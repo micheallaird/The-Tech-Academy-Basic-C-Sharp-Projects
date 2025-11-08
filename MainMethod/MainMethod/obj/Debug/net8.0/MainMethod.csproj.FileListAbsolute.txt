@@ -1,0 +1,14 @@
+C:\Users\tastas\source\repos\MainMethod\MainMethod\bin\Debug\net8.0\MainMethod.exe
+C:\Users\tastas\source\repos\MainMethod\MainMethod\bin\Debug\net8.0\MainMethod.deps.json
+C:\Users\tastas\source\repos\MainMethod\MainMethod\bin\Debug\net8.0\MainMethod.runtimeconfig.json
+C:\Users\tastas\source\repos\MainMethod\MainMethod\bin\Debug\net8.0\MainMethod.dll
+C:\Users\tastas\source\repos\MainMethod\MainMethod\bin\Debug\net8.0\MainMethod.pdb
+C:\Users\tastas\source\repos\MainMethod\MainMethod\obj\Debug\net8.0\MainMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tastas\source\repos\MainMethod\MainMethod\obj\Debug\net8.0\MainMethod.AssemblyInfoInputs.cache
+C:\Users\tastas\source\repos\MainMethod\MainMethod\obj\Debug\net8.0\MainMethod.AssemblyInfo.cs
+C:\Users\tastas\source\repos\MainMethod\MainMethod\obj\Debug\net8.0\MainMethod.csproj.CoreCompileInputs.cache
+C:\Users\tastas\source\repos\MainMethod\MainMethod\obj\Debug\net8.0\MainMethod.dll
+C:\Users\tastas\source\repos\MainMethod\MainMethod\obj\Debug\net8.0\refint\MainMethod.dll
+C:\Users\tastas\source\repos\MainMethod\MainMethod\obj\Debug\net8.0\MainMethod.pdb
+C:\Users\tastas\source\repos\MainMethod\MainMethod\obj\Debug\net8.0\MainMethod.genruntimeconfig.cache
+C:\Users\tastas\source\repos\MainMethod\MainMethod\obj\Debug\net8.0\ref\MainMethod.dll
