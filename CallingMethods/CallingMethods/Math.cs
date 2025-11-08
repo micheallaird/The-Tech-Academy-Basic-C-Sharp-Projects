@@ -16,7 +16,7 @@ namespace CallingMethods
             int multiplication = num1 * num2 * num3;
             int subtraction = num1 - num2 - num3;
             // Tells the user what is happening with their input
-            Console.WriteLine("The math equation took your input and used the numbers 5 and 10 in three different equations");
+            Console.WriteLine("Performing math operations on your numbers...");
             // Displays the results of the math operations
             Console.WriteLine($"Addition: {addition}");
             Console.WriteLine($"Multiplication: {multiplication}");
