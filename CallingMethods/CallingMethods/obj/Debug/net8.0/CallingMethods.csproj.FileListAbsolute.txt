@@ -1,0 +1,14 @@
+C:\Users\tastas\source\repos\CallingMethods\CallingMethods\obj\Debug\net8.0\CallingMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tastas\source\repos\CallingMethods\CallingMethods\obj\Debug\net8.0\CallingMethods.AssemblyInfoInputs.cache
+C:\Users\tastas\source\repos\CallingMethods\CallingMethods\obj\Debug\net8.0\CallingMethods.AssemblyInfo.cs
+C:\Users\tastas\source\repos\CallingMethods\CallingMethods\obj\Debug\net8.0\CallingMethods.csproj.CoreCompileInputs.cache
+C:\Users\tastas\source\repos\CallingMethods\CallingMethods\bin\Debug\net8.0\CallingMethods.exe
+C:\Users\tastas\source\repos\CallingMethods\CallingMethods\bin\Debug\net8.0\CallingMethods.deps.json
+C:\Users\tastas\source\repos\CallingMethods\CallingMethods\bin\Debug\net8.0\CallingMethods.runtimeconfig.json
+C:\Users\tastas\source\repos\CallingMethods\CallingMethods\bin\Debug\net8.0\CallingMethods.dll
+C:\Users\tastas\source\repos\CallingMethods\CallingMethods\bin\Debug\net8.0\CallingMethods.pdb
+C:\Users\tastas\source\repos\CallingMethods\CallingMethods\obj\Debug\net8.0\CallingMethods.dll
+C:\Users\tastas\source\repos\CallingMethods\CallingMethods\obj\Debug\net8.0\refint\CallingMethods.dll
+C:\Users\tastas\source\repos\CallingMethods\CallingMethods\obj\Debug\net8.0\CallingMethods.pdb
+C:\Users\tastas\source\repos\CallingMethods\CallingMethods\obj\Debug\net8.0\CallingMethods.genruntimeconfig.cache
+C:\Users\tastas\source\repos\CallingMethods\CallingMethods\obj\Debug\net8.0\ref\CallingMethods.dll
