@@ -1,0 +1,14 @@
+C:\Users\tastas\source\repos\SixPartAssignment\SixPartAssignment\bin\Debug\net8.0\SixPartAssignment.exe
+C:\Users\tastas\source\repos\SixPartAssignment\SixPartAssignment\bin\Debug\net8.0\SixPartAssignment.deps.json
+C:\Users\tastas\source\repos\SixPartAssignment\SixPartAssignment\bin\Debug\net8.0\SixPartAssignment.runtimeconfig.json
+C:\Users\tastas\source\repos\SixPartAssignment\SixPartAssignment\bin\Debug\net8.0\SixPartAssignment.dll
+C:\Users\tastas\source\repos\SixPartAssignment\SixPartAssignment\bin\Debug\net8.0\SixPartAssignment.pdb
+C:\Users\tastas\source\repos\SixPartAssignment\SixPartAssignment\obj\Debug\net8.0\SixPartAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tastas\source\repos\SixPartAssignment\SixPartAssignment\obj\Debug\net8.0\SixPartAssignment.AssemblyInfoInputs.cache
+C:\Users\tastas\source\repos\SixPartAssignment\SixPartAssignment\obj\Debug\net8.0\SixPartAssignment.AssemblyInfo.cs
+C:\Users\tastas\source\repos\SixPartAssignment\SixPartAssignment\obj\Debug\net8.0\SixPartAssignment.csproj.CoreCompileInputs.cache
+C:\Users\tastas\source\repos\SixPartAssignment\SixPartAssignment\obj\Debug\net8.0\SixPartAssignment.dll
+C:\Users\tastas\source\repos\SixPartAssignment\SixPartAssignment\obj\Debug\net8.0\refint\SixPartAssignment.dll
+C:\Users\tastas\source\repos\SixPartAssignment\SixPartAssignment\obj\Debug\net8.0\SixPartAssignment.pdb
+C:\Users\tastas\source\repos\SixPartAssignment\SixPartAssignment\obj\Debug\net8.0\SixPartAssignment.genruntimeconfig.cache
+C:\Users\tastas\source\repos\SixPartAssignment\SixPartAssignment\obj\Debug\net8.0\ref\SixPartAssignment.dll
