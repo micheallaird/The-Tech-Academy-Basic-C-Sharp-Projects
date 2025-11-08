@@ -1,0 +1,14 @@
+C:\Users\tastas\source\repos\StringsAndIntegers\StringsAndIntegers\obj\Debug\net8.0\StringsAndIntegers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tastas\source\repos\StringsAndIntegers\StringsAndIntegers\obj\Debug\net8.0\StringsAndIntegers.AssemblyInfoInputs.cache
+C:\Users\tastas\source\repos\StringsAndIntegers\StringsAndIntegers\obj\Debug\net8.0\StringsAndIntegers.AssemblyInfo.cs
+C:\Users\tastas\source\repos\StringsAndIntegers\StringsAndIntegers\obj\Debug\net8.0\StringsAndIntegers.csproj.CoreCompileInputs.cache
+C:\Users\tastas\source\repos\StringsAndIntegers\StringsAndIntegers\bin\Debug\net8.0\StringsAndIntegers.exe
+C:\Users\tastas\source\repos\StringsAndIntegers\StringsAndIntegers\bin\Debug\net8.0\StringsAndIntegers.deps.json
+C:\Users\tastas\source\repos\StringsAndIntegers\StringsAndIntegers\bin\Debug\net8.0\StringsAndIntegers.runtimeconfig.json
+C:\Users\tastas\source\repos\StringsAndIntegers\StringsAndIntegers\bin\Debug\net8.0\StringsAndIntegers.dll
+C:\Users\tastas\source\repos\StringsAndIntegers\StringsAndIntegers\bin\Debug\net8.0\StringsAndIntegers.pdb
+C:\Users\tastas\source\repos\StringsAndIntegers\StringsAndIntegers\obj\Debug\net8.0\StringsAndIntegers.dll
+C:\Users\tastas\source\repos\StringsAndIntegers\StringsAndIntegers\obj\Debug\net8.0\refint\StringsAndIntegers.dll
+C:\Users\tastas\source\repos\StringsAndIntegers\StringsAndIntegers\obj\Debug\net8.0\StringsAndIntegers.pdb
+C:\Users\tastas\source\repos\StringsAndIntegers\StringsAndIntegers\obj\Debug\net8.0\StringsAndIntegers.genruntimeconfig.cache
+C:\Users\tastas\source\repos\StringsAndIntegers\StringsAndIntegers\obj\Debug\net8.0\ref\StringsAndIntegers.dll
