@@ -1,0 +1,14 @@
+C:\Users\tastas\source\repos\ClassSubmission\ClassSubmission\bin\Debug\net8.0\ClassSubmission.exe
+C:\Users\tastas\source\repos\ClassSubmission\ClassSubmission\bin\Debug\net8.0\ClassSubmission.deps.json
+C:\Users\tastas\source\repos\ClassSubmission\ClassSubmission\bin\Debug\net8.0\ClassSubmission.runtimeconfig.json
+C:\Users\tastas\source\repos\ClassSubmission\ClassSubmission\bin\Debug\net8.0\ClassSubmission.dll
+C:\Users\tastas\source\repos\ClassSubmission\ClassSubmission\bin\Debug\net8.0\ClassSubmission.pdb
+C:\Users\tastas\source\repos\ClassSubmission\ClassSubmission\obj\Debug\net8.0\ClassSubmission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tastas\source\repos\ClassSubmission\ClassSubmission\obj\Debug\net8.0\ClassSubmission.AssemblyInfoInputs.cache
+C:\Users\tastas\source\repos\ClassSubmission\ClassSubmission\obj\Debug\net8.0\ClassSubmission.AssemblyInfo.cs
+C:\Users\tastas\source\repos\ClassSubmission\ClassSubmission\obj\Debug\net8.0\ClassSubmission.csproj.CoreCompileInputs.cache
+C:\Users\tastas\source\repos\ClassSubmission\ClassSubmission\obj\Debug\net8.0\ClassSubmission.dll
+C:\Users\tastas\source\repos\ClassSubmission\ClassSubmission\obj\Debug\net8.0\refint\ClassSubmission.dll
+C:\Users\tastas\source\repos\ClassSubmission\ClassSubmission\obj\Debug\net8.0\ClassSubmission.pdb
+C:\Users\tastas\source\repos\ClassSubmission\ClassSubmission\obj\Debug\net8.0\ClassSubmission.genruntimeconfig.cache
+C:\Users\tastas\source\repos\ClassSubmission\ClassSubmission\obj\Debug\net8.0\ref\ClassSubmission.dll
