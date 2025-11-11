@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ClassSubmission
 {
-    internal class Class2
+    public static class Class2
     {
         // Creates a static class with a static method
         public static void StaticMethod()
