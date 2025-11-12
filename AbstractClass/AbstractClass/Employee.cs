@@ -2,7 +2,7 @@
 
 namespace AbstractClass
 {
-    internal class Employee
+    internal class Employee: IQuittable
     {
         // Store the employee's name
         public required string Name { get; set; }
@@ -12,6 +12,12 @@ namespace AbstractClass
         {
             // Output the name
             Console.WriteLine(Name);
+        }
+
+        // Implements the Quit() method from IQuittable
+        public void Quit()
+        {
+            Console.WriteLine($"{Name} has quit.");
         }
     }
 }

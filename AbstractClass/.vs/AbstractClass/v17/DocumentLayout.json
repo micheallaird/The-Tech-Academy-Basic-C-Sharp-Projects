@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\tastas\\source\\repos\\AbstractClass\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3A08A39F-9675-42AE-BA2F-8DB11A980A46}|AbstractClass\\AbstractClass.csproj|c:\\users\\tastas\\source\\repos\\abstractclass\\abstractclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A08A39F-9675-42AE-BA2F-8DB11A980A46}|AbstractClass\\AbstractClass.csproj|solutionrelative:abstractclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3A08A39F-9675-42AE-BA2F-8DB11A980A46}|AbstractClass\\AbstractClass.csproj|c:\\users\\tastas\\source\\repos\\abstractclass\\abstractclass\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A08A39F-9675-42AE-BA2F-8DB11A980A46}|AbstractClass\\AbstractClass.csproj|solutionrelative:abstractclass\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{3A08A39F-9675-42AE-BA2F-8DB11A980A46}|AbstractClass\\AbstractClass.csproj|c:\\users\\tastas\\source\\repos\\abstractclass\\abstractclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A08A39F-9675-42AE-BA2F-8DB11A980A46}|AbstractClass\\AbstractClass.csproj|solutionrelative:abstractclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3A08A39F-9675-42AE-BA2F-8DB11A980A46}|AbstractClass\\AbstractClass.csproj|c:\\users\\tastas\\source\\repos\\abstractclass\\abstractclass\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A08A39F-9675-42AE-BA2F-8DB11A980A46}|AbstractClass\\AbstractClass.csproj|solutionrelative:abstractclass\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A08A39F-9675-42AE-BA2F-8DB11A980A46}|AbstractClass\\AbstractClass.csproj|c:\\users\\tastas\\source\\repos\\abstractclass\\abstractclass\\iquittable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A08A39F-9675-42AE-BA2F-8DB11A980A46}|AbstractClass\\AbstractClass.csproj|solutionrelative:abstractclass\\iquittable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,13 +34,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "IQuittable.cs",
+              "DocumentMoniker": "C:\\Users\\tastas\\source\\repos\\AbstractClass\\AbstractClass\\IQuittable.cs",
+              "RelativeDocumentMoniker": "AbstractClass\\IQuittable.cs",
+              "ToolTip": "C:\\Users\\tastas\\source\\repos\\AbstractClass\\AbstractClass\\IQuittable.cs",
+              "RelativeToolTip": "AbstractClass\\IQuittable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T00:56:32.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Users\\tastas\\source\\repos\\AbstractClass\\AbstractClass\\Employee.cs",
               "RelativeDocumentMoniker": "AbstractClass\\Employee.cs",
               "ToolTip": "C:\\Users\\tastas\\source\\repos\\AbstractClass\\AbstractClass\\Employee.cs",
               "RelativeToolTip": "AbstractClass\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-11T21:16:18.431Z",
               "EditorCaption": ""
@@ -56,13 +73,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\tastas\\source\\repos\\AbstractClass\\AbstractClass\\Program.cs",
               "RelativeDocumentMoniker": "AbstractClass\\Program.cs",
               "ToolTip": "C:\\Users\\tastas\\source\\repos\\AbstractClass\\AbstractClass\\Program.cs",
               "RelativeToolTip": "AbstractClass\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwDIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-11T20:46:32.776Z",
               "EditorCaption": ""
