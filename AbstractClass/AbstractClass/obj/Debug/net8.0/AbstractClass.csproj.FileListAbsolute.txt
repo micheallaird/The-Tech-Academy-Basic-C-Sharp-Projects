@@ -1,0 +1,14 @@
+C:\Users\tastas\source\repos\AbstractClass\AbstractClass\bin\Debug\net8.0\AbstractClass.exe
+C:\Users\tastas\source\repos\AbstractClass\AbstractClass\bin\Debug\net8.0\AbstractClass.deps.json
+C:\Users\tastas\source\repos\AbstractClass\AbstractClass\bin\Debug\net8.0\AbstractClass.runtimeconfig.json
+C:\Users\tastas\source\repos\AbstractClass\AbstractClass\bin\Debug\net8.0\AbstractClass.dll
+C:\Users\tastas\source\repos\AbstractClass\AbstractClass\bin\Debug\net8.0\AbstractClass.pdb
+C:\Users\tastas\source\repos\AbstractClass\AbstractClass\obj\Debug\net8.0\AbstractClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tastas\source\repos\AbstractClass\AbstractClass\obj\Debug\net8.0\AbstractClass.AssemblyInfoInputs.cache
+C:\Users\tastas\source\repos\AbstractClass\AbstractClass\obj\Debug\net8.0\AbstractClass.AssemblyInfo.cs
+C:\Users\tastas\source\repos\AbstractClass\AbstractClass\obj\Debug\net8.0\AbstractClass.csproj.CoreCompileInputs.cache
+C:\Users\tastas\source\repos\AbstractClass\AbstractClass\obj\Debug\net8.0\AbstractClass.dll
+C:\Users\tastas\source\repos\AbstractClass\AbstractClass\obj\Debug\net8.0\refint\AbstractClass.dll
+C:\Users\tastas\source\repos\AbstractClass\AbstractClass\obj\Debug\net8.0\AbstractClass.pdb
+C:\Users\tastas\source\repos\AbstractClass\AbstractClass\obj\Debug\net8.0\AbstractClass.genruntimeconfig.cache
+C:\Users\tastas\source\repos\AbstractClass\AbstractClass\obj\Debug\net8.0\ref\AbstractClass.dll
