@@ -1,0 +1,14 @@
+C:\Users\tastas\source\repos\OperatorsSubmission\OperatorsSubmission\bin\Debug\net8.0\OperatorsSubmission.exe
+C:\Users\tastas\source\repos\OperatorsSubmission\OperatorsSubmission\bin\Debug\net8.0\OperatorsSubmission.deps.json
+C:\Users\tastas\source\repos\OperatorsSubmission\OperatorsSubmission\bin\Debug\net8.0\OperatorsSubmission.runtimeconfig.json
+C:\Users\tastas\source\repos\OperatorsSubmission\OperatorsSubmission\bin\Debug\net8.0\OperatorsSubmission.dll
+C:\Users\tastas\source\repos\OperatorsSubmission\OperatorsSubmission\bin\Debug\net8.0\OperatorsSubmission.pdb
+C:\Users\tastas\source\repos\OperatorsSubmission\OperatorsSubmission\obj\Debug\net8.0\OperatorsSubmission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tastas\source\repos\OperatorsSubmission\OperatorsSubmission\obj\Debug\net8.0\OperatorsSubmission.AssemblyInfoInputs.cache
+C:\Users\tastas\source\repos\OperatorsSubmission\OperatorsSubmission\obj\Debug\net8.0\OperatorsSubmission.AssemblyInfo.cs
+C:\Users\tastas\source\repos\OperatorsSubmission\OperatorsSubmission\obj\Debug\net8.0\OperatorsSubmission.csproj.CoreCompileInputs.cache
+C:\Users\tastas\source\repos\OperatorsSubmission\OperatorsSubmission\obj\Debug\net8.0\OperatorsSubmission.dll
+C:\Users\tastas\source\repos\OperatorsSubmission\OperatorsSubmission\obj\Debug\net8.0\refint\OperatorsSubmission.dll
+C:\Users\tastas\source\repos\OperatorsSubmission\OperatorsSubmission\obj\Debug\net8.0\OperatorsSubmission.pdb
+C:\Users\tastas\source\repos\OperatorsSubmission\OperatorsSubmission\obj\Debug\net8.0\OperatorsSubmission.genruntimeconfig.cache
+C:\Users\tastas\source\repos\OperatorsSubmission\OperatorsSubmission\obj\Debug\net8.0\ref\OperatorsSubmission.dll
