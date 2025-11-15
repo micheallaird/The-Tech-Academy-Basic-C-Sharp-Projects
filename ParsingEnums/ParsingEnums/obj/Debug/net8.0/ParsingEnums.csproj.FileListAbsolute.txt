@@ -1,0 +1,14 @@
+C:\Users\tastas\source\repos\ParsingEnums\ParsingEnums\bin\Debug\net8.0\ParsingEnums.exe
+C:\Users\tastas\source\repos\ParsingEnums\ParsingEnums\bin\Debug\net8.0\ParsingEnums.deps.json
+C:\Users\tastas\source\repos\ParsingEnums\ParsingEnums\bin\Debug\net8.0\ParsingEnums.runtimeconfig.json
+C:\Users\tastas\source\repos\ParsingEnums\ParsingEnums\bin\Debug\net8.0\ParsingEnums.dll
+C:\Users\tastas\source\repos\ParsingEnums\ParsingEnums\bin\Debug\net8.0\ParsingEnums.pdb
+C:\Users\tastas\source\repos\ParsingEnums\ParsingEnums\obj\Debug\net8.0\ParsingEnums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tastas\source\repos\ParsingEnums\ParsingEnums\obj\Debug\net8.0\ParsingEnums.AssemblyInfoInputs.cache
+C:\Users\tastas\source\repos\ParsingEnums\ParsingEnums\obj\Debug\net8.0\ParsingEnums.AssemblyInfo.cs
+C:\Users\tastas\source\repos\ParsingEnums\ParsingEnums\obj\Debug\net8.0\ParsingEnums.csproj.CoreCompileInputs.cache
+C:\Users\tastas\source\repos\ParsingEnums\ParsingEnums\obj\Debug\net8.0\ParsingEnums.dll
+C:\Users\tastas\source\repos\ParsingEnums\ParsingEnums\obj\Debug\net8.0\refint\ParsingEnums.dll
+C:\Users\tastas\source\repos\ParsingEnums\ParsingEnums\obj\Debug\net8.0\ParsingEnums.pdb
+C:\Users\tastas\source\repos\ParsingEnums\ParsingEnums\obj\Debug\net8.0\ParsingEnums.genruntimeconfig.cache
+C:\Users\tastas\source\repos\ParsingEnums\ParsingEnums\obj\Debug\net8.0\ref\ParsingEnums.dll
