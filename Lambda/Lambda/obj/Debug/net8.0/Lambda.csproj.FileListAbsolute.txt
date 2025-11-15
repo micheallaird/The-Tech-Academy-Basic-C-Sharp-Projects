@@ -1,0 +1,14 @@
+C:\Users\tastas\source\repos\Lambda\Lambda\bin\Debug\net8.0\Lambda.exe
+C:\Users\tastas\source\repos\Lambda\Lambda\bin\Debug\net8.0\Lambda.deps.json
+C:\Users\tastas\source\repos\Lambda\Lambda\bin\Debug\net8.0\Lambda.runtimeconfig.json
+C:\Users\tastas\source\repos\Lambda\Lambda\bin\Debug\net8.0\Lambda.dll
+C:\Users\tastas\source\repos\Lambda\Lambda\bin\Debug\net8.0\Lambda.pdb
+C:\Users\tastas\source\repos\Lambda\Lambda\obj\Debug\net8.0\Lambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tastas\source\repos\Lambda\Lambda\obj\Debug\net8.0\Lambda.AssemblyInfoInputs.cache
+C:\Users\tastas\source\repos\Lambda\Lambda\obj\Debug\net8.0\Lambda.AssemblyInfo.cs
+C:\Users\tastas\source\repos\Lambda\Lambda\obj\Debug\net8.0\Lambda.csproj.CoreCompileInputs.cache
+C:\Users\tastas\source\repos\Lambda\Lambda\obj\Debug\net8.0\Lambda.dll
+C:\Users\tastas\source\repos\Lambda\Lambda\obj\Debug\net8.0\refint\Lambda.dll
+C:\Users\tastas\source\repos\Lambda\Lambda\obj\Debug\net8.0\Lambda.pdb
+C:\Users\tastas\source\repos\Lambda\Lambda\obj\Debug\net8.0\Lambda.genruntimeconfig.cache
+C:\Users\tastas\source\repos\Lambda\Lambda\obj\Debug\net8.0\ref\Lambda.dll
