@@ -1,0 +1,14 @@
+C:\Users\tastas\source\repos\InputUsingIOTextFile\InputUsingIOTextFile\bin\Debug\net8.0\InputUsingIOTextFile.exe
+C:\Users\tastas\source\repos\InputUsingIOTextFile\InputUsingIOTextFile\bin\Debug\net8.0\InputUsingIOTextFile.deps.json
+C:\Users\tastas\source\repos\InputUsingIOTextFile\InputUsingIOTextFile\bin\Debug\net8.0\InputUsingIOTextFile.runtimeconfig.json
+C:\Users\tastas\source\repos\InputUsingIOTextFile\InputUsingIOTextFile\bin\Debug\net8.0\InputUsingIOTextFile.dll
+C:\Users\tastas\source\repos\InputUsingIOTextFile\InputUsingIOTextFile\bin\Debug\net8.0\InputUsingIOTextFile.pdb
+C:\Users\tastas\source\repos\InputUsingIOTextFile\InputUsingIOTextFile\obj\Debug\net8.0\InputUsingIOTextFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tastas\source\repos\InputUsingIOTextFile\InputUsingIOTextFile\obj\Debug\net8.0\InputUsingIOTextFile.AssemblyInfoInputs.cache
+C:\Users\tastas\source\repos\InputUsingIOTextFile\InputUsingIOTextFile\obj\Debug\net8.0\InputUsingIOTextFile.AssemblyInfo.cs
+C:\Users\tastas\source\repos\InputUsingIOTextFile\InputUsingIOTextFile\obj\Debug\net8.0\InputUsingIOTextFile.csproj.CoreCompileInputs.cache
+C:\Users\tastas\source\repos\InputUsingIOTextFile\InputUsingIOTextFile\obj\Debug\net8.0\InputUsingIOTextFile.dll
+C:\Users\tastas\source\repos\InputUsingIOTextFile\InputUsingIOTextFile\obj\Debug\net8.0\refint\InputUsingIOTextFile.dll
+C:\Users\tastas\source\repos\InputUsingIOTextFile\InputUsingIOTextFile\obj\Debug\net8.0\InputUsingIOTextFile.pdb
+C:\Users\tastas\source\repos\InputUsingIOTextFile\InputUsingIOTextFile\obj\Debug\net8.0\InputUsingIOTextFile.genruntimeconfig.cache
+C:\Users\tastas\source\repos\InputUsingIOTextFile\InputUsingIOTextFile\obj\Debug\net8.0\ref\InputUsingIOTextFile.dll
