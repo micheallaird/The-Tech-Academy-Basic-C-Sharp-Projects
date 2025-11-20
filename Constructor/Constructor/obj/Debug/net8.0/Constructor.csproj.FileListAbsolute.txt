@@ -1,0 +1,14 @@
+C:\Users\tastas\source\repos\Constructor\Constructor\bin\Debug\net8.0\Constructor.exe
+C:\Users\tastas\source\repos\Constructor\Constructor\bin\Debug\net8.0\Constructor.deps.json
+C:\Users\tastas\source\repos\Constructor\Constructor\bin\Debug\net8.0\Constructor.runtimeconfig.json
+C:\Users\tastas\source\repos\Constructor\Constructor\bin\Debug\net8.0\Constructor.dll
+C:\Users\tastas\source\repos\Constructor\Constructor\bin\Debug\net8.0\Constructor.pdb
+C:\Users\tastas\source\repos\Constructor\Constructor\obj\Debug\net8.0\Constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tastas\source\repos\Constructor\Constructor\obj\Debug\net8.0\Constructor.AssemblyInfoInputs.cache
+C:\Users\tastas\source\repos\Constructor\Constructor\obj\Debug\net8.0\Constructor.AssemblyInfo.cs
+C:\Users\tastas\source\repos\Constructor\Constructor\obj\Debug\net8.0\Constructor.csproj.CoreCompileInputs.cache
+C:\Users\tastas\source\repos\Constructor\Constructor\obj\Debug\net8.0\Constructor.dll
+C:\Users\tastas\source\repos\Constructor\Constructor\obj\Debug\net8.0\refint\Constructor.dll
+C:\Users\tastas\source\repos\Constructor\Constructor\obj\Debug\net8.0\Constructor.pdb
+C:\Users\tastas\source\repos\Constructor\Constructor\obj\Debug\net8.0\Constructor.genruntimeconfig.cache
+C:\Users\tastas\source\repos\Constructor\Constructor\obj\Debug\net8.0\ref\Constructor.dll
