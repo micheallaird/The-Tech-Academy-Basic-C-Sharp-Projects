@@ -1,0 +1,42 @@
+﻿@model IEnumerable<CarInsurance.Models.Index>
+@{
+    ViewData["Title"] = "Admin Dashboard";
+}
+<h1>Admin Dashboard</h1>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>First Name</th>
+            <th>Last Name</th>
+            <th>Email Address</th>
+            <th>Date of Birth</th>
+            <th>Car Make</th>
+            <th>Car Model</th>
+            <th>Car Year</th>
+            <th>DUI</th>
+            <th>Speeding Tickets</th>
+            <th>Coverage Type</th>
+            <th>Quote Amount</th>
+        </tr>
+    </thead>
+    <tbody>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Id</td>
+            <td>@item.FirstName</td>
+            <td>@item.LastName</td>
+            <td>@item.EmailAddress</td>
+            <td>@item.DateOfBirth.ToShortDateString()</td>
+            <td>@item.CarMake</td>
+            <td>@item.CarModel</td>
+            <td>@item.CarYear</td>
+            <td>@(item.DUI ? "Yes" : "No")</td>
+            <td>@item.SpeedingTickets</td>
+            <td>@(item.CoverageType ? "Full" : "Liability")</td>
+            <td>$@item.QuoteAmount.ToString("F2")</td>
+        </tr>
+    }
+    </tbody>
+</table>
