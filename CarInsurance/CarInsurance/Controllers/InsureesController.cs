@@ -12,15 +12,15 @@ namespace CarInsurance.Controllers
 {
     public class InsureesController : Controller
     {
-        private readonly InsureeData _context;
+        private readonly InsureeContext _context;
 
-        public InsureesController(InsureeData context)
+        public InsureesController(InsureeContext context)
         {
             _context = context;
         }
 
         // GET: Insurees
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Admin()
         {
             return View(await _context.Insurees.ToListAsync());
         }
@@ -58,9 +58,10 @@ namespace CarInsurance.Controllers
         {
             if (ModelState.IsValid)
             {
+                insuree.Quote = CalculateQuote(insuree);
                 _context.Add(insuree);
                 await _context.SaveChangesAsync();
-                return RedirectToAction(nameof(Index));
+                return RedirectToAction(nameof(Admin));
             }
             return View(insuree);
         }
@@ -97,6 +98,7 @@ namespace CarInsurance.Controllers
             {
                 try
                 {
+                    insuree.Quote = CalculateQuote(insuree);
                     _context.Update(insuree);
                     await _context.SaveChangesAsync();
                 }
@@ -111,7 +113,7 @@ namespace CarInsurance.Controllers
                         throw;
                     }
                 }
-                return RedirectToAction(nameof(Index));
+                return RedirectToAction(nameof(Admin));
             }
             return View(insuree);
         }
@@ -146,58 +148,69 @@ namespace CarInsurance.Controllers
             }
 
             await _context.SaveChangesAsync();
-            return RedirectToAction(nameof(Index));
+            return RedirectToAction(nameof(Admin));
         }
 
         private bool InsureeExists(int id)
         {
             return _context.Insurees.Any(e => e.Id == id);
         }
-        // Calculate Quote Method
+        // Adds logic to calculate insurance quotes based on these guidelines:
+        // - Start with a base monthly rate of $50.
+        // - If the user is under 18, add $100 to the monthly total.
+        // - If the user is between 18 and 25, add $50 to the monthly total.
+        // - If the user is over 25, add $25 to the monthly total.
+        // - If the car's year is before 2000, add $25 to the monthly total.
+        // - If the car's year is after 2015, add $25 to the monthly total.
+        // - If the car's make is a "Porsche", add $25 to the monthly total.
+        // - If the car's make is a "Porsche" and the model is a "911 Carrera", add an additional $25 to the monthly total.
+        // - Add $10 to the monthly total for every speeding ticket the user has.
+        // - If the user has ever had a DUI, increase the total by 25%.
+        // - If the user wants full coverage, increase the total by 50%.
         private decimal CalculateQuote(Insuree insuree)
         {
-            decimal baseQuote = 50.0m;
-            // Age-based adjustments
-            var age = DateTime.Now.Year - DateTime.Parse(insuree.DateOfBirth).Year;
+            decimal quote = 50m;
+            var today = DateOnly.FromDateTime(DateTime.Today);
+            int age = today.Year - insuree.DateOfBirth.Year;
+            if (insuree.DateOfBirth > today.AddYears(-age)) age--;
             if (age < 18)
             {
-                baseQuote += 100.0m;
+                quote += 100m;
             }
-            else if (age <= 25)
+            else if (age >= 18 && age <= 25)
             {
-                baseQuote += 50.0m;
+                quote += 50m;
             }
             else
             {
-                baseQuote += 25.0m;
+                quote += 25m;
             }
-            // Car year adjustment
-            if (insuree.CarYear < 2000 || insuree.CarYear > 2015)
+            if (insuree.CarYear < 2000)
             {
-                baseQuote += 25.0m;
+                quote += 25m;
             }
-            // Car make and model adjustments
-            if (insuree.CarMake.ToLower() == "Porsche")
+            else if (insuree.CarYear > 2015)
             {
-                baseQuote += 25.0m;
-                if (insuree.CarModel.ToLower() == "911 Carrera")
+                quote += 25m;
+            }
+            if (insuree.CarMake.ToLower() == "porsche")
+            {
+                quote += 25m;
+                if (insuree.CarModel.ToLower() == "911 carrera")
                 {
-                    baseQuote += 25.0m;
+                    quote += 25m;
                 }
             }
-            // Speeding tickets adjustment adds $10 per ticket
-            baseQuote += insuree.SpeedingTickets * 10.0m;
-            // DUI adjustment
-            if (insuree.DUI > 0)
+            quote += insuree.SpeedingTickets * 10m;
+            if (insuree.DUI)
             {
-                baseQuote *= 1.25m;
+                quote *= 1.25m;
             }
-            // Coverage type adjustment
-            if (insuree.CoverageType.ToLower() == "full")
+            if (!string.IsNullOrEmpty(insuree.CoverageType) && insuree.CoverageType.ToLower() == "full")
             {
-                baseQuote *= 1.5m;
+                quote *= 1.5m;
             }
-            return baseQuote;
+            return quote;
         }
     }
 }

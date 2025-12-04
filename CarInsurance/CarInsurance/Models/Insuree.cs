@@ -6,13 +6,13 @@
         public string FirstName { get; set; }
         public string LastName { get; set; }
         public string EmailAddress { get; set; }
-        public string DateOfBirth { get; set; }
+        public DateOnly DateOfBirth { get; set; }
         public int CarYear { get; set; }
         public string CarMake { get; set; }
         public string CarModel { get; set; }
-        public int DUI { get; set; } = 0;
+        public bool DUI { get; set; } = false;
         public int SpeedingTickets { get; set; } = 0;
-        public string CoverageType { get; set; } = string.Empty;
+        public string CoverageType { get; set; } = "Liability";
         public decimal Quote { get; set; } = 0.0m;
     }
 }

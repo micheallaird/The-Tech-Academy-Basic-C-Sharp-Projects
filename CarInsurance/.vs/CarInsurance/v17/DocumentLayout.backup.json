@@ -3,48 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\tastas\\source\\repos\\CarInsurance\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EE732D71-6E78-46A0-9063-1328E20B4FD2}|CarInsurance\\CarInsurance.csproj|c:\\users\\tastas\\source\\repos\\carinsurance\\carinsurance\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EE732D71-6E78-46A0-9063-1328E20B4FD2}|CarInsurance\\CarInsurance.csproj|solutionrelative:carinsurance\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{579D2323-ED25-40A7-962C-B5D2065A54E0}|CarInsurance\\CarInsurance.csproj|c:\\users\\tastas\\source\\repos\\carinsurance\\carinsurance\\controllers\\insureescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{579D2323-ED25-40A7-962C-B5D2065A54E0}|CarInsurance\\CarInsurance.csproj|solutionrelative:carinsurance\\controllers\\insureescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE732D71-6E78-46A0-9063-1328E20B4FD2}|CarInsurance\\CarInsurance.csproj|c:\\users\\tastas\\source\\repos\\carinsurance\\carinsurance\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE732D71-6E78-46A0-9063-1328E20B4FD2}|CarInsurance\\CarInsurance.csproj|solutionrelative:carinsurance\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{579D2323-ED25-40A7-962C-B5D2065A54E0}|CarInsurance\\CarInsurance.csproj|c:\\users\\tastas\\source\\repos\\carinsurance\\carinsurance\\views\\insurees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{579D2323-ED25-40A7-962C-B5D2065A54E0}|CarInsurance\\CarInsurance.csproj|solutionrelative:carinsurance\\views\\insurees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE732D71-6E78-46A0-9063-1328E20B4FD2}|CarInsurance\\CarInsurance.csproj|c:\\users\\tastas\\source\\repos\\carinsurance\\carinsurance\\migrations\\20251202222324_updateddatatypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE732D71-6E78-46A0-9063-1328E20B4FD2}|CarInsurance\\CarInsurance.csproj|solutionrelative:carinsurance\\migrations\\20251202222324_updateddatatypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{579D2323-ED25-40A7-962C-B5D2065A54E0}|CarInsurance\\CarInsurance.csproj|c:\\users\\tastas\\source\\repos\\carinsurance\\carinsurance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{579D2323-ED25-40A7-962C-B5D2065A54E0}|CarInsurance\\CarInsurance.csproj|solutionrelative:carinsurance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE732D71-6E78-46A0-9063-1328E20B4FD2}|CarInsurance\\CarInsurance.csproj|c:\\users\\tastas\\source\\repos\\carinsurance\\carinsurance\\controllers\\insureescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE732D71-6E78-46A0-9063-1328E20B4FD2}|CarInsurance\\CarInsurance.csproj|solutionrelative:carinsurance\\controllers\\insureescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{579D2323-ED25-40A7-962C-B5D2065A54E0}|CarInsurance\\CarInsurance.csproj|c:\\users\\tastas\\source\\repos\\carinsurance\\carinsurance\\views\\insurees\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{579D2323-ED25-40A7-962C-B5D2065A54E0}|CarInsurance\\CarInsurance.csproj|solutionrelative:carinsurance\\views\\insurees\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE732D71-6E78-46A0-9063-1328E20B4FD2}|CarInsurance\\CarInsurance.csproj|c:\\users\\tastas\\source\\repos\\carinsurance\\carinsurance\\data\\insureedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE732D71-6E78-46A0-9063-1328E20B4FD2}|CarInsurance\\CarInsurance.csproj|solutionrelative:carinsurance\\data\\insureedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{579D2323-ED25-40A7-962C-B5D2065A54E0}|CarInsurance\\CarInsurance.csproj|c:\\users\\tastas\\source\\repos\\carinsurance\\carinsurance\\models\\insuree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{579D2323-ED25-40A7-962C-B5D2065A54E0}|CarInsurance\\CarInsurance.csproj|solutionrelative:carinsurance\\models\\insuree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE732D71-6E78-46A0-9063-1328E20B4FD2}|CarInsurance\\CarInsurance.csproj|c:\\users\\tastas\\source\\repos\\carinsurance\\carinsurance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE732D71-6E78-46A0-9063-1328E20B4FD2}|CarInsurance\\CarInsurance.csproj|solutionrelative:carinsurance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE732D71-6E78-46A0-9063-1328E20B4FD2}|CarInsurance\\CarInsurance.csproj|c:\\users\\tastas\\source\\repos\\carinsurance\\carinsurance\\views\\insurees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EE732D71-6E78-46A0-9063-1328E20B4FD2}|CarInsurance\\CarInsurance.csproj|solutionrelative:carinsurance\\views\\insurees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE732D71-6E78-46A0-9063-1328E20B4FD2}|CarInsurance\\CarInsurance.csproj|c:\\users\\tastas\\source\\repos\\carinsurance\\carinsurance\\migrations\\20251202211743_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE732D71-6E78-46A0-9063-1328E20B4FD2}|CarInsurance\\CarInsurance.csproj|solutionrelative:carinsurance\\migrations\\20251202211743_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE732D71-6E78-46A0-9063-1328E20B4FD2}|CarInsurance\\CarInsurance.csproj|c:\\users\\tastas\\source\\repos\\carinsurance\\carinsurance\\models\\index.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE732D71-6E78-46A0-9063-1328E20B4FD2}|CarInsurance\\CarInsurance.csproj|solutionrelative:carinsurance\\models\\index.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE732D71-6E78-46A0-9063-1328E20B4FD2}|CarInsurance\\CarInsurance.csproj|c:\\users\\tastas\\source\\repos\\carinsurance\\carinsurance\\models\\insuree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE732D71-6E78-46A0-9063-1328E20B4FD2}|CarInsurance\\CarInsurance.csproj|solutionrelative:carinsurance\\models\\insuree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE732D71-6E78-46A0-9063-1328E20B4FD2}|CarInsurance\\CarInsurance.csproj|c:\\users\\tastas\\source\\repos\\carinsurance\\carinsurance\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{EE732D71-6E78-46A0-9063-1328E20B4FD2}|CarInsurance\\CarInsurance.csproj|solutionrelative:carinsurance\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{579D2323-ED25-40A7-962C-B5D2065A54E0}|CarInsurance\\CarInsurance.csproj|c:\\users\\tastas\\source\\repos\\carinsurance\\carinsurance\\views\\insurees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{579D2323-ED25-40A7-962C-B5D2065A54E0}|CarInsurance\\CarInsurance.csproj|solutionrelative:carinsurance\\views\\insurees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,153 +34,92 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\tastas\\source\\repos\\CarInsurance\\CarInsurance\\Views\\Insurees\\Create.cshtml",
-              "RelativeDocumentMoniker": "CarInsurance\\Views\\Insurees\\Create.cshtml",
-              "ToolTip": "C:\\Users\\tastas\\source\\repos\\CarInsurance\\CarInsurance\\Views\\Insurees\\Create.cshtml",
-              "RelativeToolTip": "CarInsurance\\Views\\Insurees\\Create.cshtml",
-              "ViewState": "AgIAADkAAAAAAAAAAAAAAEgAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-03T18:41:17.973Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Index.cs",
-              "DocumentMoniker": "C:\\Users\\tastas\\source\\repos\\CarInsurance\\CarInsurance\\Models\\Index.cs",
-              "RelativeDocumentMoniker": "CarInsurance\\Models\\Index.cs",
-              "ToolTip": "C:\\Users\\tastas\\source\\repos\\CarInsurance\\CarInsurance\\Models\\Index.cs",
-              "RelativeToolTip": "CarInsurance\\Models\\Index.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAADwvxAAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T16:12:58.135Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\tastas\\source\\repos\\CarInsurance\\CarInsurance\\Views\\Admin\\Index.cshtml",
-              "RelativeDocumentMoniker": "CarInsurance\\Views\\Admin\\Index.cshtml",
-              "ToolTip": "C:\\Users\\tastas\\source\\repos\\CarInsurance\\CarInsurance\\Views\\Admin\\Index.cshtml",
-              "RelativeToolTip": "CarInsurance\\Views\\Admin\\Index.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-03T15:58:24.987Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AdminController.cs",
-              "DocumentMoniker": "C:\\Users\\tastas\\source\\repos\\CarInsurance\\CarInsurance\\Controllers\\AdminController.cs",
-              "RelativeDocumentMoniker": "CarInsurance\\Controllers\\AdminController.cs",
-              "ToolTip": "C:\\Users\\tastas\\source\\repos\\CarInsurance\\CarInsurance\\Controllers\\AdminController.cs",
-              "RelativeToolTip": "CarInsurance\\Controllers\\AdminController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAwAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T14:56:33.21Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "20251202222324_UpdatedDataTypes.cs",
-              "DocumentMoniker": "C:\\Users\\tastas\\source\\repos\\CarInsurance\\CarInsurance\\Migrations\\20251202222324_UpdatedDataTypes.cs",
-              "RelativeDocumentMoniker": "CarInsurance\\Migrations\\20251202222324_UpdatedDataTypes.cs",
-              "ToolTip": "C:\\Users\\tastas\\source\\repos\\CarInsurance\\CarInsurance\\Migrations\\20251202222324_UpdatedDataTypes.cs",
-              "RelativeToolTip": "CarInsurance\\Migrations\\20251202222324_UpdatedDataTypes.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-02T22:23:24.545Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "InsureesController.cs",
               "DocumentMoniker": "C:\\Users\\tastas\\source\\repos\\CarInsurance\\CarInsurance\\Controllers\\InsureesController.cs",
               "RelativeDocumentMoniker": "CarInsurance\\Controllers\\InsureesController.cs",
               "ToolTip": "C:\\Users\\tastas\\source\\repos\\CarInsurance\\CarInsurance\\Controllers\\InsureesController.cs",
               "RelativeToolTip": "CarInsurance\\Controllers\\InsureesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAALsAAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAADUAAAAAAAAAAAAmwMYAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-02T21:20:50.058Z",
+              "WhenOpened": "2025-12-04T19:26:48.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Admin.cshtml",
+              "DocumentMoniker": "C:\\Users\\tastas\\source\\repos\\CarInsurance\\CarInsurance\\Views\\Insurees\\Admin.cshtml",
+              "RelativeDocumentMoniker": "CarInsurance\\Views\\Insurees\\Admin.cshtml",
+              "ToolTip": "C:\\Users\\tastas\\source\\repos\\CarInsurance\\CarInsurance\\Views\\Insurees\\Admin.cshtml",
+              "RelativeToolTip": "CarInsurance\\Views\\Insurees\\Admin.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-04T19:24:35.706Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\tastas\\source\\repos\\CarInsurance\\CarInsurance\\Views\\Insurees\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CarInsurance\\Views\\Insurees\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\tastas\\source\\repos\\CarInsurance\\CarInsurance\\Views\\Insurees\\Edit.cshtml",
+              "RelativeToolTip": "CarInsurance\\Views\\Insurees\\Edit.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEQAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-04T19:21:14.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\tastas\\source\\repos\\CarInsurance\\CarInsurance\\Program.cs",
               "RelativeDocumentMoniker": "CarInsurance\\Program.cs",
               "ToolTip": "C:\\Users\\tastas\\source\\repos\\CarInsurance\\CarInsurance\\Program.cs",
               "RelativeToolTip": "CarInsurance\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAADsAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAiwB0AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-02T21:14:45.004Z",
+              "WhenOpened": "2025-12-04T19:15:05.462Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\tastas\\source\\repos\\CarInsurance\\CarInsurance\\appsettings.json",
-              "RelativeDocumentMoniker": "CarInsurance\\appsettings.json",
-              "ToolTip": "C:\\Users\\tastas\\source\\repos\\CarInsurance\\CarInsurance\\appsettings.json",
-              "RelativeToolTip": "CarInsurance\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABpAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-02T21:10:13.689Z",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\tastas\\source\\repos\\CarInsurance\\CarInsurance\\Views\\Insurees\\Create.cshtml",
+              "RelativeDocumentMoniker": "CarInsurance\\Views\\Insurees\\Create.cshtml",
+              "ToolTip": "C:\\Users\\tastas\\source\\repos\\CarInsurance\\CarInsurance\\Views\\Insurees\\Create.cshtml",
+              "RelativeToolTip": "CarInsurance\\Views\\Insurees\\Create.cshtml",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAEEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-04T19:11:34.053Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "InsureeData.cs",
-              "DocumentMoniker": "C:\\Users\\tastas\\source\\repos\\CarInsurance\\CarInsurance\\Data\\InsureeData.cs",
-              "RelativeDocumentMoniker": "CarInsurance\\Data\\InsureeData.cs",
-              "ToolTip": "C:\\Users\\tastas\\source\\repos\\CarInsurance\\CarInsurance\\Data\\InsureeData.cs",
-              "RelativeToolTip": "CarInsurance\\Data\\InsureeData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-02T20:51:21.212Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
               "Title": "Insuree.cs",
               "DocumentMoniker": "C:\\Users\\tastas\\source\\repos\\CarInsurance\\CarInsurance\\Models\\Insuree.cs",
               "RelativeDocumentMoniker": "CarInsurance\\Models\\Insuree.cs",
               "ToolTip": "C:\\Users\\tastas\\source\\repos\\CarInsurance\\CarInsurance\\Models\\Insuree.cs",
               "RelativeToolTip": "CarInsurance\\Models\\Insuree.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwA4AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-02T19:45:30.769Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "20251202211743_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\tastas\\source\\repos\\CarInsurance\\CarInsurance\\Migrations\\20251202211743_InitialCreate.cs",
-              "RelativeDocumentMoniker": "CarInsurance\\Migrations\\20251202211743_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\tastas\\source\\repos\\CarInsurance\\CarInsurance\\Migrations\\20251202211743_InitialCreate.cs",
-              "RelativeToolTip": "CarInsurance\\Migrations\\20251202211743_InitialCreate.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAQwBoAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-02T21:17:44.049Z",
+              "WhenOpened": "2025-12-04T18:59:07.419Z",
               "EditorCaption": ""
             }
           ]

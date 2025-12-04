@@ -29,7 +29,7 @@
             </div>
             <div class="form-group">
                 <label asp-for="DateOfBirth" class="control-label"></label>
-                <input asp-for="DateOfBirth" class="form-control" />
+                <input asp-for="DateOfBirth" type="Date" class="form-control" />
                 <span asp-validation-for="DateOfBirth" class="text-danger"></span>
             </div>
             <div class="form-group">
@@ -47,10 +47,10 @@
                 <input asp-for="CarModel" class="form-control" />
                 <span asp-validation-for="CarModel" class="text-danger"></span>
             </div>
-            <div class="form-group">
-                <label asp-for="DUI" class="control-label"></label>
-                <input asp-for="DUI" class="form-control" />
-                <span asp-validation-for="DUI" class="text-danger"></span>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="DUI" /> @Html.DisplayNameFor(model => model.DUI)
+                </label>
             </div>
             <div class="form-group">
                 <label asp-for="SpeedingTickets" class="control-label"></label>
@@ -63,16 +63,13 @@
                 <span asp-validation-for="CoverageType" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <!--Edits code so that the user does not see the "Quote" input field-->
+                <!-- Modifies the Create View so that the user does not see the "Quote" input field -->
                 <label asp-for="Quote" class="control-label"></label>
-                <input asp-for="Quote" class="form-control" style="display:none;" />
+                <input asp-for="Quote" class="form-control" type="hidden" style="display:none;" disabled="disabled"/>
                 <span asp-validation-for="Quote" class="text-danger"></span>
             </div>
-            <div class="form-group" style="display:none;">
-                <input asp-for="Quote" class="form-control" />
-            </div>
             <div class="form-group">
-                <input type="submit" value="Create" class="btn btn-primary" onclick="calculateQuote()" />
+                <input type="submit" value="Create" class="btn btn-primary" />
             </div>
         </form>
     </div>
